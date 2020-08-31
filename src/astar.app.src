@@ -1,0 +1,16 @@
+{application, astar,
+ [{description, "Erlang A* search algorithm library based on mwri"},
+  {vsn, "1.0.0"},
+  {registered, []},
+  {mod, { astar_app, []}},
+  {applications,
+   [kernel,
+    stdlib
+   ]},
+  {env,[]},
+  {modules, []},
+
+  {maintainers, []},
+  {licenses, ["Apache 2.0"]},
+  {links, []}
+ ]}.
