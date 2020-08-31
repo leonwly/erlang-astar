@@ -1,7 +1,7 @@
 astar
 =====
 
-Erlang A* search algorithm library based on mwri
+Erlang Astar search algorithm library based on mwri
 
 Making use of user functions to supply neighbour state and heuristic scores
 
